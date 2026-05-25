@@ -22,3 +22,6 @@ JINX EmbyClient 是一个面向 Windows 的第三方 Emby 桌面客户端。
 ## 许可
 
 本仓库未提供开源许可证。除第三方组件按各自许可证授权外，JINX EmbyClient 自有代码与资源保留所有权利。
+
+应用户要求，创建交流群
+[加入 Telegram 用户群](https://t.me/+A-y36tJ33n8xMTZl)
